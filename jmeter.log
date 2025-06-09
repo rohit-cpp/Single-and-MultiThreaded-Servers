@@ -1,0 +1,22 @@
+2025-06-09 14:17:20,841 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-06-09 14:17:20,901 INFO o.a.j.JMeter: Loading user properties from: C:\apache-jmeter-5.6.3\bin\user.properties
+2025-06-09 14:17:20,907 INFO o.a.j.JMeter: Loading system properties from: C:\apache-jmeter-5.6.3\bin\system.properties
+2025-06-09 14:17:20,935 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-06-09 14:17:20,935 INFO o.a.j.JMeter: Version 5.6.3
+2025-06-09 14:17:20,935 INFO o.a.j.JMeter: java.version=24.0.1
+2025-06-09 14:17:20,936 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-06-09 14:17:20,936 INFO o.a.j.JMeter: os.name=Windows 11
+2025-06-09 14:17:20,936 INFO o.a.j.JMeter: os.arch=amd64
+2025-06-09 14:17:20,937 INFO o.a.j.JMeter: os.version=10.0
+2025-06-09 14:17:20,937 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-06-09 14:17:20,937 INFO o.a.j.JMeter: java.awt.headless=null
+2025-06-09 14:17:20,937 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-06-09 14:17:20,938 INFO o.a.j.JMeter: Available Processors =12
+2025-06-09 14:17:20,983 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-06-09 14:17:20,984 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-06-09 14:17:20,984 INFO o.a.j.JMeter: JMeterHome=C:\apache-jmeter-5.6.3
+2025-06-09 14:17:20,984 INFO o.a.j.JMeter: user.dir  =C:\Users\rrgaw\OneDrive\Desktop\java progamming
+2025-06-09 14:17:20,986 INFO o.a.j.JMeter: PWD       =C:\Users\rrgaw\OneDrive\Desktop\java progamming
+2025-06-09 14:17:20,991 INFO o.a.j.JMeter: IP: 192.168.1.6 Name: ROHIT FullName: ROHIT
+2025-06-09 14:17:21,032 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-06-09 14:17:21,390 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
